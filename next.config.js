@@ -19,8 +19,8 @@ module.exports = {
   },
   i18n: {
     // locales: Object.values(languages).map(({ code }) => code),
-    locales: ['en', 'cn', 'ja', 'es', 'pt', 'de'],
-    defaultLocale: 'en',
+    locales: ['en', 'cn', 'ja', 'es', 'pt', 'de','rs'],
+    defaultLocale: 'en','pt',
   },
   sassOptions: {
     quietDeps: true,
